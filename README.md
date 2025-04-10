@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jonathan Mathew John a Wannabe Game Dev :)
 ---
 
-🌟 I’m a strategic and driven student passionate about **tech** and eager to apply for reasoning abilities and creative thinking to **build software** that solves real world problems. I'm a passionate Computer Science graduate with a deep love for technology and an endless curiosity to keep learning. I am eager to apply my reasoning abilities and creative thinking to **build software** that solves real world problems. Aspiring to build a career in **game design**, where I can merge my technical skills with my creative spark to craft immersive digital experiences.
+🌟  I'm a passionate Computer Science graduate with a deep love for technology and an endless curiosity to keep learning. I love problem solving and am passionate about **building software**
 
 🎓 **Bachelor of Technology in Computer Science and Engineering**  
 Jain (Deemed-to-be University), Bengaluru
