@@ -1,14 +1,11 @@
 # 👋 Hi, I'm Jonathan Mathew John a Wannabe Game Dev :)
 ---
 
-## 🌟 I'm a passionate Computer Science graduate with a deep love for technology and an endless curiosity to keep learning. I love problem solving and am passionate about **building software** 
+## I'm a passionate Computer Science grad with a deep love for technology and an endless curiosity to keep learning. I love problem solving and am passionate about **building software** 
 
-🎓 **Comp Sci Undergrad** from  Jain (Deemed-to-be University), Bengaluru
-
+🎓 **Comp Sci Undergrad** from  Jain University, Bengaluru
 💼 **Currently Interning at:** Broadridge India  
 💻 **Exploring:** Web Development, Artificial Intelligence, Machine Learning & Deep Learning
-
----
 
 ### 🚀 Interests & Goals
 - 🎮 Game Design & Development
