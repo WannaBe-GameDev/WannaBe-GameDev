@@ -3,8 +3,8 @@
 
 ## I'm a passionate Computer Science grad with a deep love for technology and an endless curiosity to keep learning. I love problem solving and am passionate about **building software** 
 
-🎓 **Comp Sci Undergrad** from  Jain University, Bengaluru
-💼 **Currently Interning at:** Broadridge India  
+🎓 **Comp Sci Undergrad** from  Jain University, Bengaluru<br>
+💼 **Currently Interning at:** Broadridge India  <br>
 💻 **Exploring:** Web Development, Artificial Intelligence, Machine Learning & Deep Learning
 
 ### 🚀 Interests & Goals
