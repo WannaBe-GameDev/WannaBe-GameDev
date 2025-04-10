@@ -8,7 +8,7 @@
 💻 **Exploring:** Web Development, Artificial Intelligence, Machine Learning & Deep Learning
 
 ### 🚀 Interests & Goals
-- 🤖 AI/ML & Deep Learning Research
+- 🤖 AI/ML & Deep Learning 
 - 🎮 Game Design & Development
 - 🌐 Front-End Web Technologies
 - 🧠 Always eager to learn new tools and frameworks
